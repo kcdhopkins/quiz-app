@@ -1,0 +1,26 @@
+$spacing: 2.5px;
+
+.answerscontainer{
+    .divider{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        label{
+            display: flex;
+            span{
+                margin: $spacing;
+            }
+            input{
+                margin: $spacing;
+            }
+        }
+    }
+    .submit{
+        background-color: rgb(30 , 120, 221);;
+        color: white; 
+        border: none;
+        padding: 10px 20px 10px 20px;
+        margin-left: $spacing;
+        margin-top: 20px;
+    }
+}
+
