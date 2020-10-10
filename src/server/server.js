@@ -11,7 +11,7 @@ const port = 4000;
 // GET question endpoint
 server.get("/api/questions", cors(), (req, res) => {
     res.json(data);
-    console.log(`request returned ${moment().format("YYYY-MM-DD")}`);
+    console.log(`request returned ${moment().format("YYYY-MM-DD-HH-mm-ss")}`);
 });
 
 // starting server
