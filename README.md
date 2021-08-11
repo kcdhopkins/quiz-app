@@ -1,5 +1,5 @@
 Download or clone this repository, and from within the root folder, the same folder as the public and src folders, run the following commands.
-
+This site can be viewed by visting [https://quirky-tereshkova-eec948.netlify.app/](https://quirky-tereshkova-eec948.netlify.app/)
 ### `npm install`
 ### `npm start`
 
